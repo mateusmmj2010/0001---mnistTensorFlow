@@ -1,7 +1,7 @@
-<h1>0001 - Simple CNN with Tensorflow</h1>
+<h3>0001 - Simple CNN with Tensorflow</h3>
 
-<h2>Convolutional neural networks that recognize numbers in 28x28 pixel images from the mnist dataset</h2>
+<h4>Convolutional neural networks that recognize numbers in 28x28 pixel images from the mnist dataset</h4>
 
-<h3>Activation functions: 
+<h5>Activation functions: 
       ReLu and Softmax
-</h3>
+</h5>
