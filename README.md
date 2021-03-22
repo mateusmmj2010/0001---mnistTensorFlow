@@ -1,6 +1,6 @@
-<h3><b>Simple CNN with Tensorflow</b></h3>
+<h2><b>Simple CNN with Tensorflow</b></h2>
 
-<h4>Convolutional neural networks that recognize numbers in 28x28 pixel images from the mnist dataset</h4>
+<h3>Convolutional neural networks that recognize numbers in 28x28 pixel images from the mnist dataset</h3>
 </br>
 
 <p><img src = "images/0001.png"></p>
