@@ -4,8 +4,10 @@
 
 <p align="center"><img src = "images/0001.png"></p>
 
-<h4>Activation functions implemented: 
-      ReLu
-</h4>
+<h4>Activation functions implemented:</h4>
+<ol>
+      <li>ReLu</li>
+      <li>Softmax</li>
+</ol>
 
 <p align="center"><img src = "images/ReLu Function.png"></p>
