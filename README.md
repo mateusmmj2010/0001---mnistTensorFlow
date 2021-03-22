@@ -4,6 +4,6 @@
 
 <img src = "images/0001.png">
 
-<h5>Activation functions implemented: 
+<h4>Activation functions implemented: 
       ReLu
-</h5>
+</h4>
