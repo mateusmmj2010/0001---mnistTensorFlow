@@ -12,6 +12,7 @@ model.add(Flatten())
 model.add(Dense(10, activation='softmax')
 model.compile(optmizer='adam', loss='category_crossentropy', metrics=['accuracy'])
 ```
+</br>
 
 <p><img src = "images/0001.png"></p>
 
