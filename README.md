@@ -2,10 +2,10 @@
 
 <h4>Convolutional neural networks that recognize numbers in 28x28 pixel images from the mnist dataset</h4>
 
-<center><img src = "images/0001.png"></center>
+<p><img src = "images/0001.png"></p>
 
 <h4>Activation functions implemented: 
       ReLu
 </h4>
 
-<center><img src = "images/ReLu Function.png"></center>
+<p><img src = "images/ReLu Function.png"></p>
