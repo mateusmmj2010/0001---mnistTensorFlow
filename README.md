@@ -2,6 +2,8 @@
 
 <h4>Convolutional neural networks that recognize numbers in 28x28 pixel images from the mnist dataset</h4>
 
+<img src = "images/0001.png">
+
 <h5>Activation functions: 
       ReLu and Softmax
 </h5>
