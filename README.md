@@ -4,15 +4,18 @@
 </br>
 
 ```python
-# import dependencies
-import tensorflow as tf
-import matplotlib.pypolt as plt
-
+# dependencies
 from keras.datasets import mnist
 from keras.utils import to_categorical
 from keras.models import Sequential
 from keras.layers import Conv2D, Flatten, Dense
+```
+<h4>keras.models.Sequential</h4>
+<h4>keras.layers.Conv2D</h4>
+<h4>keras.layers.Flatten</h4>
+<h4>keras.layers.Dense</h4>
 
+```python
 # initialize and compile model
 model = Sequential()
 model.add(Conv2D(64, kernel_size = 3, activation='relu', input_shape(28,28,1)))
