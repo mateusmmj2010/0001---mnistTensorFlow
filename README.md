@@ -2,7 +2,9 @@
 
 <h4>Convolutional neural networks that recognize numbers in 28x28 pixel images from the mnist dataset</h4>
 
+
 <p><img src = "images/0001.png"></p>
+
 
 <h4>Activation functions implemented:</h4>
 <ol>
