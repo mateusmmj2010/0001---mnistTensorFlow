@@ -29,7 +29,7 @@ model.add(Flatten())
 model.add(Dense(10, activation='softmax'))
 
 # compile CNN
-model.compile(optmizer='adam', loss='category_crossentropy', metrics=['accuracy'])
+model.compile(optmizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 
 # training model
 model.fit(x_train, y_train, validation_data=(x_test, y_test), epochs=3)
