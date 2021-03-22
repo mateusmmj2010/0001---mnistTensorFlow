@@ -15,9 +15,8 @@
 <h3>ReLU - Rectified Linear Unit</h3>
 
 ```python
-# example
 def relu(x):
-      return max(0,x)
+    return max(0,x)
 ```
 
 <h5><p align='Justify'>This activation function started showing up in the context of visual feature extraction in hierarchical neural networks starting in the late 1960s. It was later argued that it has strong biological motivations and mathematical justifications.In 2011 it was found to enable better training of deeper networks, compared to the widely used activation functions prior to 2011, e.g., the logistic sigmoid (which is inspired by probability theory; see logistic regression) and its more practical counterpart, the hyperbolic tangent. The rectifier is, as of 2017, the most popular activation function for deep neural networks. <a href="https://en.wikipedia.org/wiki/Rectifier_(neural_networks)" target ="_blank">[wikipedia]</a></p></h5>
