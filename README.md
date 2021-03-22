@@ -5,5 +5,5 @@
 <img src = "images/0001.png">
 
 <h5>Activation functions implemented: 
-      ReLu and Softmax
+      ReLu
 </h5>
