@@ -10,5 +10,5 @@
       <li>Softmax</li>
 </ol>
 
-<h4><ul>ReLu - Rectified Linear Unit</ul></h4>
+<h4><ul>ReLu - Rectified Linear Unit<ul></h4>
 <p><img src = "images/ReLu Function.png"></p>
