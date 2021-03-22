@@ -14,7 +14,7 @@
 
 <h3>ReLU - Rectified Linear Unit</h3>
 
-```
+```python
 # example
 def relu(x):
       return max(0,x)
