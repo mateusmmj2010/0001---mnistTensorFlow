@@ -26,7 +26,7 @@ model.compile(optmizer='adam', loss='category_crossentropy', metrics=['accuracy'
 ```
 </br>
 
-<p><img src = "images/0001.png"></p>
+<p align='center'><img src = "images/0001.png"></p>
 
 
 <h3>Activation functions implemented:</h3>
