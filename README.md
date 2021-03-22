@@ -47,6 +47,6 @@ def relu(x):
 
 </br>
 
-<p><img src = "images/ReLu Function.png"></p>
+<p align='center'><img src = "images/ReLu Function.png"></p>
 
 <h3>Softmax</h3>
