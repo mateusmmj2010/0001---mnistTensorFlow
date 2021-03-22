@@ -1,4 +1,4 @@
-<h3>0001 - Simple CNN with Tensorflow</h3>
+<h3><b>Simple CNN with Tensorflow</b></h3>
 
 <h4>Convolutional neural networks that recognize numbers in 28x28 pixel images from the mnist dataset</h4>
 
@@ -10,4 +10,5 @@
       <li>Softmax</li>
 </ol>
 
+<h4>ReLu - Rectified Linear Unit</h4>
 <p><img src = "images/ReLu Function.png"></p>
