@@ -6,5 +6,5 @@
 
 <h4>Activation functions implemented: 
       ReLu
-<img src = "iamges/ReLu Function.png">
+<img src = "images/ReLu Function.png">
 </h4>
