@@ -50,3 +50,6 @@ def relu(x):
 <p align='center'><img src = "images/ReLu Function.png"></p>
 
 <h3>Softmax</h3>
+<h3>Kernel<h3>
+</br>
+<p align='center'><img src = "images/Kernel.png"></p>
