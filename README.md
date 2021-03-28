@@ -5,7 +5,7 @@
 <h3>Convolutional neural networks that recognize numbers in 28x28 pixel images from the mnist.dataset</h3>
 </br>
 
-<h4>features</h4>
+<h4>Dependências</h4>
 
 ```python
 from keras.datasets import mnist
