@@ -8,7 +8,7 @@
 
 
 ```python
-# dependencies
+<h4>features</h4>
 from keras.datasets import mnist
 from keras.utils import to_categorical
 from keras.models import Sequential
