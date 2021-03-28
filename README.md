@@ -36,7 +36,7 @@ model.compile(optmizer='adam', loss='category_crossentropy', metrics=['accuracy'
       <li>Softmax</li>
 </ol>
 
-<h3>ReLU - Rectified Linear Unit</h3>
+<h4>ReLU - Rectified Linear Unit</h4>
 
 ```python
 def relu(x):
@@ -50,13 +50,13 @@ def relu(x):
 
 <p align='center'><img src = "images/ReLu Function.png"></p>
 
-<h3>Softmax</h3>
+<h4>Softmax</h4>
 
 <h3>Kernel and Filter</h3>
 
-<h3>Kernel - Whats is?<h3>
+<h4>Kernel - Whats is?<h4>
 </br>
 <p align='center'><img src = "images/Kernel.png"></p>
 
 <h3>Optimization Algorithms</h3>
-<h3>Adam</h3>
+<h4>Adam</h4>
