@@ -2,8 +2,8 @@
 
 <p align='center'><img src ="images/cnn convolution.jpeg"></p>
 <h3>Convolutional neural networks that recognize numbers in 28x28 pixel images from the mnist.dataset</h3>
-</br>
 <h3>Dependências</h3>
+
 ```python
 import matplotlib.pyplot as plt
 import tensorflow
