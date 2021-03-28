@@ -26,11 +26,11 @@ model.add(Dense(10, activation='softmax')
 model.compile(optmizer='adam', loss='category_crossentropy', metrics=['accuracy'])
 ```
 </br>
-
+<h3>Architecture</h3>
 <p align='center'><img src = "images/0001.png"></p>
 
 
-<h3>Activation functions implemented:</h3>
+<h3>Activation functions</h3>
 <ol>
       <li>ReLU</li>
       <li>Softmax</li>
@@ -51,6 +51,12 @@ def relu(x):
 <p align='center'><img src = "images/ReLu Function.png"></p>
 
 <h3>Softmax</h3>
+
+<h3>Kernel and Filter</h3>
+
 <h3>Kernel - Whats is?<h3>
 </br>
 <p align='center'><img src = "images/Kernel.png"></p>
+
+<h3>Optimization Algorithms</h3>
+<h3>Adam</h3>
