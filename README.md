@@ -6,9 +6,8 @@
 </br>
 
 
-
-```python
 <h4>features</h4>
+```python
 from keras.datasets import mnist
 from keras.utils import to_categorical
 from keras.models import Sequential
