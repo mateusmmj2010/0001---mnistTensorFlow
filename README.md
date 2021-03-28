@@ -51,7 +51,7 @@ def relu(x):
 
 <h4>Softmax</h4>
 </br>
-<h3>Kernel and Filter</h3>
+<h3>Kernel, Filter and Convolution</h3>
 
 <h4>Kernel - Whats is?<h4>
 
