@@ -8,6 +8,8 @@
 <h4>Dependências</h4>
 
 ```python
+import matplotlib.pyplot as plt
+import tensorflow
 from keras.datasets import mnist
 from keras.utils import to_categorical
 from keras.models import Sequential
