@@ -28,8 +28,7 @@ model.compile(optmizer='adam', loss='category_crossentropy', metrics=['accuracy'
 </br>
 <h3>Architecture</h3>
 <p align='center'><img src = "images/0001.png"></p>
-
-
+</br>
 <h3>Activation functions</h3>
 <ol>
       <li>ReLU</li>
@@ -51,12 +50,12 @@ def relu(x):
 <p align='center'><img src = "images/ReLu Function.png"></p>
 
 <h4>Softmax</h4>
-
+</br>
 <h3>Kernel and Filter</h3>
 
 <h4>Kernel - Whats is?<h4>
-</br>
-<p align='center'><img src = "images/Kernel.png"></p>
 
+<p align='center'><img src = "images/Kernel.png"></p>
+</br>
 <h3>Optimization Algorithms</h3>
 <h4>Adam</h4>
