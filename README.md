@@ -1,14 +1,11 @@
 <h2><b>Simple CNN with Tensorflow</b></h2>
-
-<h3>insert image</h3>
-
-<h3>Convolutional neural networks that recognize numbers in 28x28 pixel images from the mnist.dataset</h3>
-</br>
-
-
+<h3>Convolutional neural networks that recognize numbers in 28x28 pixel images from the mnist.dataset</h3></h2>
+<p align='center'><img src ="diagrams/images/cnn convolution.jpeg"></p>
+<h3>Dependencies</h3>
 
 ```python
-# dependencies
+import matplotlib.pyplot as plt
+import tensorflow
 from keras.datasets import mnist
 from keras.utils import to_categorical
 from keras.models import Sequential
@@ -29,17 +26,16 @@ model.add(Dense(10, activation='softmax')
 model.compile(optmizer='adam', loss='category_crossentropy', metrics=['accuracy'])
 ```
 </br>
-
-<p align='center'><img src = "images/0001.png"></p>
-
-
-<h3>Activation functions implemented:</h3>
+<h3>Architecture</h3>
+<p align='center'><img src = "diagrams/images/0001.png"></p>
+</br>
+<h3>Activation functions</h3>
 <ol>
       <li>ReLU</li>
       <li>Softmax</li>
 </ol>
 
-<h3>ReLU - Rectified Linear Unit</h3>
+<h4>ReLU - Rectified Linear Unit</h4>
 
 ```python
 def relu(x):
@@ -51,9 +47,15 @@ def relu(x):
 
 </br>
 
-<p align='center'><img src = "images/ReLu Function.png"></p>
+<p align='center'><img src = "diagrams/images/ReLu Function.png"></p>
 
-<h3>Softmax</h3>
-<h3>Kernel<h3>
+<h4>Softmax</h4>
 </br>
-<p align='center'><img src = "images/Kernel.png"></p>
+<h3>Kernel, Filter and Convolution</h3>
+
+<h4>Kernel - Whats is?<h4>
+
+<p align='center'><img src = "diagrams/images/Kernel.png"></p>
+</br>
+<h3>Optimization Algorithms</h3>
+<h4>Adam</h4>
