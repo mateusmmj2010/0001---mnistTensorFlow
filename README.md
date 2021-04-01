@@ -1,6 +1,8 @@
 <h2><b>Simple CNN with Tensorflow</b></h2>
 <h3>Convolutional neural networks that recognize numbers in 28x28 pixel images from the mnist.dataset</h3></h2>
+
 <p align='center'><img src ="diagrams/images/cnn convolution.jpeg"></p>
+
 <h3>Dependencies</h3>
 
 ```python
@@ -27,7 +29,9 @@ model.compile(optmizer='adam', loss='category_crossentropy', metrics=['accuracy'
 ```
 </br>
 <h3>Architecture</h3>
+
 <p align='center'><img src = "diagrams/images/0001.png"></p>
+
 </br>
 <h3>Activation functions</h3>
 <ol>
@@ -55,7 +59,9 @@ def relu(x):
 
 <h4>Kernel - Whats is?<h4>
 
+
 <p align='center'><img src = "diagrams/images/Kernel.png"></p>
 </br>
+
 <h3>Optimization Algorithms</h3>
 <h4>Adam</h4>
